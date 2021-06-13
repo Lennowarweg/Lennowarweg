@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lennowarweg
 - 📝 18-year-old student from Germany
-- 🔥 Especially interested in app coding yet try my luck with other projects as well
+- 🔥 Especially interested in app coding yet trying my luck with other projects as well
 - 🌱 Currently working on a project tracker app
 - 👀 Looking forward to work with Flutter in the future
 
