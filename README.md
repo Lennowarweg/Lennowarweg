@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @Lennowarweg
-- 👀 I’m interested in app coding and various other projects
-- 🌱 I’m currently working on a (homework) planner app
+- 📝 18-year-old student from Germany
+- 🔥 I’m especially interested in app coding yet try my luck with other projects as well
+- 🌱 I’m currently working on a project tracker app
+- 👀 Looking forward to work with Flutter in the future
+Socials can be found on my LinkTree:
+https://linktr.ee/LennoDev
 
 
 <!---
